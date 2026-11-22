@@ -14,7 +14,7 @@ final kizmaConfig = GameConfig(
   title: const [
       'Kızma Birader',
       'Don\'t Get Angry',
-      'Mensch ärgere dich nicht',
+      'Ludo',
       'No te enfades',
       'Petits chevaux',
       'لا تغضب',
@@ -30,7 +30,7 @@ final kizmaConfig = GameConfig(
       'Μην θυμώνεις',
       'Non t\'arrabbiare',
       'Não se zangue',
-      'Mens erger je niet',
+      'Ludo',
       'Fia',
       'Ludo',
       'Ludo',
